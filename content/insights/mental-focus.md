@@ -1,10 +1,12 @@
 ---
-title: "🧠 Mental Focus"
-description: "Train your horse's mind for concentration"
+title: "Mental Focus"
+description: "Train your horse's mind for concentration and responsiveness in any riding situation."
 emoji: "🧠"
 gradient: "from-blue-50 to-cyan-50"
 border: "border-blue-200"
 ---
+
+
 
 Mental Focus - EquineWisdom
 🐴

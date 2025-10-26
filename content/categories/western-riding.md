@@ -1,8 +1,11 @@
 ---
-title: "🤠 Western Riding"
-description: "Perfect your western style"
+title: "Western Riding"
+description: "Perfect your western style with techniques for barrel racing, cutting, and western pleasure disciplines."
 emoji: "🤠"
+highlights: ["Barrel Racing Tips", "Cutting Techniques", "Reining Skills"]
 ---
+
+
 
 Western Riding - EquineWisdom
 🐴

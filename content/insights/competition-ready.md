@@ -1,10 +1,12 @@
 ---
-title: "🏆 Competition Ready"
-description: "Prepare yourself for show day success"
+title: "Competition Ready"
+description: "Prepare yourself and your horse for show day success with expert competition strategies."
 emoji: "🏆"
 gradient: "from-indigo-50 to-blue-50"
 border: "border-indigo-200"
 ---
+
+
 
 Competition Ready - EquineWisdom
 🐴

@@ -1,8 +1,11 @@
 ---
-title: "Untitled"
-description: "Unlock your horse's potential with targeted exercises"
+title: "Speed & Agility Training"
+description: "Unlock your horse's potential with targeted exercises that build speed and athletic performance. Perfect for jumping, barrel racing, and endurance events."
 emoji: "💨"
+border: "border-blue-100"
 ---
+
+
 
 ## The Science of Equine Speed and Agility
 Speed and agility are not innate talents alone—they're skills that can be developed through systematic training. Horses that are trained with proper conditioning, balance exercises, and mental preparation can dramatically improve their athleticism and performance.

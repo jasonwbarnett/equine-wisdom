@@ -1,10 +1,12 @@
 ---
-title: "💪 Building Strength"
-description: "Strengthen your horse's muscles"
+title: "Building Strength"
+description: "Strengthen your horse's muscles with specific conditioning exercises that improve performance."
 emoji: "💪"
 gradient: "from-green-50 to-emerald-50"
 border: "border-green-200"
 ---
+
+
 
 Building Strength - EquineWisdom
 🐴

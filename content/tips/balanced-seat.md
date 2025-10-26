@@ -1,8 +1,11 @@
 ---
-title: "Untitled"
-description: "Learn how to develop a perfectly balanced seat"
+title: "Balanced Seat Mastery"
+description: "Learn how to develop a perfectly balanced seat that gives you control and comfort in every discipline. Proper posture is the foundation of great horsemanship."
 emoji: "🏇"
+border: "border-amber-100"
 ---
+
+
 
 ## What is a Balanced Seat?
 A balanced seat is the foundation of effective horsemanship. It refers to a rider's position in the saddle where their weight is evenly distributed and directly over the horse's center of gravity. This optimal positioning allows you to communicate with your horse clearly, maintain stability at all gaits, and execute advanced movements with precision.

@@ -1,10 +1,12 @@
 ---
-title: "😌 Relaxation Techniques"
-description: "Help your horse maintain calm composure"
+title: "Relaxation Tech"
+description: "Help your horse maintain calm composure during competitions and challenging situations."
 emoji: "😌"
 gradient: "from-red-50 to-pink-50"
 border: "border-red-200"
 ---
+
+
 
 Relaxation Techniques - EquineWisdom
 🐴

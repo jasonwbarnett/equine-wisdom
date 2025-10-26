@@ -1,8 +1,11 @@
 ---
-title: "Untitled"
-description: "Build trust with your horse using gentle techniques"
+title: "Natural Horsemanship"
+description: "Build trust with your horse using gentle, nature-based techniques. Understand equine psychology and create a harmonious partnership based on respect and communication."
 emoji: "🌿"
+border: "border-green-100"
 ---
+
+
 
 ## Understanding Natural Horsemanship
 Natural horsemanship is a philosophy and methodology that works with the horse's instincts rather than against them. It's based on understanding equine behavior, communication, and psychology to create a partnership built on trust, respect, and clear communication.

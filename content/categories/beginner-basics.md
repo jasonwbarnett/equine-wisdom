@@ -1,8 +1,11 @@
 ---
-title: "👶 Beginner Basics"
-description: "Start your equestrian journey"
+title: "Beginner Basics"
+description: "Start your equestrian journey with foundational skills and horse handling fundamentals for new riders."
 emoji: "👶"
+highlights: ["Safety First", "Grooming & Care", "Basic Commands"]
 ---
+
+
 
 Beginner Basics - EquineWisdom
 🐴

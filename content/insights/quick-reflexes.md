@@ -1,10 +1,12 @@
 ---
-title: "⚡ Quick Reflexes"
-description: "Improve your horse's response time"
+title: "Quick Reflexes"
+description: "Improve your horse's response time with agility drills and reactive training techniques."
 emoji: "⚡"
 gradient: "from-yellow-50 to-orange-50"
 border: "border-yellow-200"
 ---
+
+
 
 Quick Reflexes - EquineWisdom
 🐴

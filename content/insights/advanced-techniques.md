@@ -1,10 +1,12 @@
 ---
-title: "🌟 Advanced Techniques"
-description: "Master complex movements and high-level training"
+title: "Advanced Techniques"
+description: "Master complex movements and high-level training methods for professional-level riding."
 emoji: "🌟"
 gradient: "from-teal-50 to-cyan-50"
 border: "border-teal-200"
 ---
+
+
 
 Advanced Techniques - EquineWisdom
 🐴

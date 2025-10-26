@@ -1,10 +1,12 @@
 ---
-title: "🎯 Perfect Your Gait"
-description: "Develop smooth, controlled gaits"
+title: "Perfect Your Gait"
+description: "Develop smooth, controlled gaits through targeted exercises and consistent practice routines."
 emoji: "🎯"
 gradient: "from-amber-50 to-orange-50"
 border: "border-amber-200"
 ---
+
+
 
 Perfect Your Gait - EquineWisdom
 🐴

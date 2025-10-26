@@ -1,8 +1,11 @@
 ---
-title: "🏔️ Trail Riding"
-description: "Explore outdoor adventures safely"
+title: "Trail Riding"
+description: "Explore outdoor adventures safely with comprehensive trail riding guidance and horse conditioning techniques."
 emoji: "🏔️"
+highlights: ["Terrain Navigation", "Endurance Building", "Safety Essentials"]
 ---
+
+
 
 Trail Riding - EquineWisdom
 🐴

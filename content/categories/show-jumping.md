@@ -1,8 +1,11 @@
 ---
-title: "🚀 Show Jumping"
-description: "Learn the art of jumping with expert tips"
+title: "Show Jumping"
+description: "Learn the art of jumping with expert tips on approach, takeoff, and landing techniques for various obstacle heights."
 emoji: "🚀"
+highlights: ["Fence Approach", "Perfect Take-off", "Landing & Recovery"]
 ---
+
+
 
 Show Jumping - EquineWisdom
 🐴

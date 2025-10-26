@@ -1,8 +1,11 @@
 ---
-title: "🏥 Horse Health & Wellness"
-description: "Essential information on nutrition and wellness"
+title: "Horse Health"
+description: "Essential information on nutrition, injury prevention, and maintaining optimal health for your equine partner."
 emoji: "🏥"
+highlights: ["Nutrition Guide", "Injury Prevention", "Wellness Tips"]
 ---
+
+
 
 Horse Health - EquineWisdom
 🐴

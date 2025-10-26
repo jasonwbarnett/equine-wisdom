@@ -1,8 +1,11 @@
 ---
-title: "🎪 Dressage Training"
-description: "Master the classical discipline of dressage"
+title: "Dressage"
+description: "Master the classical discipline of dressage with techniques focusing on collection, balance, and precision movements."
 emoji: "🎪"
+highlights: ["Walk, Trot, Canter Basics", "Advanced Movements", "Competition Prep"]
 ---
+
+
 
 Dressage Training - EquineWisdom
 🐴
