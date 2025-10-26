@@ -1,5 +1,8 @@
 ---
+
+
 title: "Building Strength"
+heroGradient: "gradient-meadow"
 description: "Strengthen your horse's muscles with specific conditioning exercises that improve performance."
 emoji: "💪"
 gradient: "from-green-50 to-emerald-50"
@@ -8,75 +11,110 @@ border: "border-green-200"
 
 
 
-Building Strength - EquineWisdom
-🐴
-EquineWisdom
-Home
-/
-Building Strength
-💪 Building Strength
-Strengthen your horse's muscles with specific conditioning exercises that improve performance, prevent injury, and build athletic capability.
-## The Importance of Equine Strength
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">The Importance of Equine Strength</h2>
+<p class="text-gray-700 text-lg leading-relaxed mb-4">
 Strong muscles are the foundation of athletic performance, injury prevention, and longevity in horses. A well-conditioned horse can carry more weight, perform complex movements, and maintain soundness throughout a long career. Strategic strength training develops the specific muscles needed for your discipline while preventing overuse injuries.
-## Key Muscle Groups to Develop
-### 🦵 Hindquarters & Glutes
-The powerhouse of movement. Strong hindquarters enable collection, jumping power, and weight-bearing capacity. These muscles are essential for all disciplines.
-### 🦴 Core & Back Muscles
-Support the spine and engage the hindquarters. A strong core enables proper positioning and allows the horse to move with balance and efficiency.
-### 🦶 Front Legs & Shoulders
-Absorb impact and enable forward movement. Strong shoulders and front legs reduce strain on joints and improve movement quality.
-### 💪 Neck & Chest
-Stabilize the upper body and enable proper frame. Strong neck muscles support collection and balance for refined movements.
-## Proven Strength-Building Exercises
-⛰️
-#### Hill Work
-Riding uphill against gravity builds significant hindquarter and core strength. Start with gentle slopes and progress to steeper hills. Aim for 10-15 minute sessions, 2-3 times weekly.
-🛞
-#### Cavaletti & Pole Work
-Raised poles engage abdominal muscles and develop engaging strides. Varying pole heights and spacing challenges different muscle groups. 15-20 minute sessions build strength without excessive strain.
-🏃
-#### Interval Training
-Alternating high and low intensity builds muscular power. Fast work at gallop followed by recovery walk develops explosive strength. 30-minute sessions, 1-2 times weekly.
-🔙
-#### Backing & Transitions
-Quick direction changes and transitions develop agility and engage multiple muscle groups. Practice 10-15 minute sets of varied transitions and backing exercises.
-🌊
-#### Water Work
-Water provides natural resistance while being low-impact. Trotting and cantering through shallow water builds strength without joint stress. 10 minute sessions 1-2 times weekly.
-## 12-Week Strength Building Program
-Weeks 1-3: Foundation Building
-Establish baseline fitness with consistent work. Mix flatwork, light hill work, and cavaletti. 4-5 days per week.
-Weeks 4-6: Progressive Loading
-Introduce steeper hills and longer intervals. Add water work. 4-5 days per week with one rest day.
-Weeks 7-9: Peak Development
-Intensify intervals and hill work. Horse shows visible muscle development. Include 2-3 intense sessions weekly.
-Weeks 10-12: Maintenance
-Maintain strength with consistent work. Reduce volume slightly while maintaining intensity. Focus on performance.
-## Nutrition for Strength
-#### 🌾 Protein
-Essential for muscle building and repair. Ensure adequate protein intake through quality hay and appropriate grain/supplements.
-Target: 2.5-3.5 lbs daily for working horses
-#### ⚡ Minerals
-Calcium, phosphorus, and magnesium support muscle function and bone strength. Balanced ratios are critical.
-Consult equine nutritionist for optimal balance
-#### 💧 Hydration
-Proper hydration is essential for muscle recovery and function. Increased exercise demands increased water intake.
-Provide fresh water ad libitum
-#### 🌿 Supplements
-Joint support, amino acids, and electrolytes aid strength development and recovery.
-Discuss with veterinarian or nutritionist
-## Signs of Growing Strength
-✅
-Visible Muscle Development
-Rounded hindquarters and defined muscles
-✅
-Improved Performance
-Better jumping, faster speeds, smoother gaits
-✅
-Increased Engagement
-More active hindquarters and forward movement
-✅
-Greater Rideability
-Easier to handle and responsive to aids
-&copy; 2025 EquineWisdom. All rights reserved.
-Back to Home
+</p>
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Key Muscle Groups to Develop</h2>
+<div class="space-y-6">
+<div class="bg-green-50 rounded-lg p-6 border-l-4 border-green-500">
+<h3 class="text-xl font-bold text-gray-900 mb-3">🦵 Hindquarters & Glutes</h3>
+<p class="text-gray-700">The powerhouse of movement. Strong hindquarters enable collection, jumping power, and weight-bearing capacity. These muscles are essential for all disciplines.</p>
+<div class="bg-green-50 rounded-lg p-6 border-l-4 border-green-500">
+<h3 class="text-xl font-bold text-gray-900 mb-3">🦴 Core & Back Muscles</h3>
+<p class="text-gray-700">Support the spine and engage the hindquarters. A strong core enables proper positioning and allows the horse to move with balance and efficiency.</p>
+<div class="bg-green-50 rounded-lg p-6 border-l-4 border-green-500">
+<h3 class="text-xl font-bold text-gray-900 mb-3">🦶 Front Legs & Shoulders</h3>
+<p class="text-gray-700">Absorb impact and enable forward movement. Strong shoulders and front legs reduce strain on joints and improve movement quality.</p>
+<div class="bg-green-50 rounded-lg p-6 border-l-4 border-green-500">
+<h3 class="text-xl font-bold text-gray-900 mb-3">💪 Neck & Chest</h3>
+<p class="text-gray-700">Stabilize the upper body and enable proper frame. Strong neck muscles support collection and balance for refined movements.</p>
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Proven Strength-Building Exercises</h2>
+<div class="bg-blue-50 rounded-lg p-8 border border-blue-200">
+<div class="space-y-6">
+<div class="flex gap-4">
+<span class="text-2xl">⛰️</span>
+<div>
+<h4 class="font-semibold text-gray-900 mb-2">Hill Work</h4>
+<p class="text-gray-700">Riding uphill against gravity builds significant hindquarter and core strength. Start with gentle slopes and progress to steeper hills. Aim for 10-15 minute sessions, 2-3 times weekly.</p>
+<div class="flex gap-4">
+<span class="text-2xl">🛞</span>
+<div>
+<h4 class="font-semibold text-gray-900 mb-2">Cavaletti & Pole Work</h4>
+<p class="text-gray-700">Raised poles engage abdominal muscles and develop engaging strides. Varying pole heights and spacing challenges different muscle groups. 15-20 minute sessions build strength without excessive strain.</p>
+<div class="flex gap-4">
+<span class="text-2xl">🏃</span>
+<div>
+<h4 class="font-semibold text-gray-900 mb-2">Interval Training</h4>
+<p class="text-gray-700">Alternating high and low intensity builds muscular power. Fast work at gallop followed by recovery walk develops explosive strength. 30-minute sessions, 1-2 times weekly.</p>
+<div class="flex gap-4">
+<span class="text-2xl">🔙</span>
+<div>
+<h4 class="font-semibold text-gray-900 mb-2">Backing & Transitions</h4>
+<p class="text-gray-700">Quick direction changes and transitions develop agility and engage multiple muscle groups. Practice 10-15 minute sets of varied transitions and backing exercises.</p>
+<div class="flex gap-4">
+<span class="text-2xl">🌊</span>
+<div>
+<h4 class="font-semibold text-gray-900 mb-2">Water Work</h4>
+<p class="text-gray-700">Water provides natural resistance while being low-impact. Trotting and cantering through shallow water builds strength without joint stress. 10 minute sessions 1-2 times weekly.</p>
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">12-Week Strength Building Program</h2>
+<div class="space-y-4">
+<div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
+<p class="font-semibold text-gray-900">Weeks 1-3: Foundation Building</p>
+<p class="text-gray-700 text-sm">Establish baseline fitness with consistent work. Mix flatwork, light hill work, and cavaletti. 4-5 days per week.</p>
+<div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
+<p class="font-semibold text-gray-900">Weeks 4-6: Progressive Loading</p>
+<p class="text-gray-700 text-sm">Introduce steeper hills and longer intervals. Add water work. 4-5 days per week with one rest day.</p>
+<div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
+<p class="font-semibold text-gray-900">Weeks 7-9: Peak Development</p>
+<p class="text-gray-700 text-sm">Intensify intervals and hill work. Horse shows visible muscle development. Include 2-3 intense sessions weekly.</p>
+<div class="bg-purple-50 rounded-lg p-4 border-l-4 border-purple-500">
+<p class="font-semibold text-gray-900">Weeks 10-12: Maintenance</p>
+<p class="text-gray-700 text-sm">Maintain strength with consistent work. Reduce volume slightly while maintaining intensity. Focus on performance.</p>
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Nutrition for Strength</h2>
+<div class="grid md:grid-cols-2 gap-6">
+<div class="bg-yellow-50 rounded-lg p-6 border border-yellow-200">
+<h4 class="font-semibold text-gray-900 mb-3">🌾 Protein</h4>
+<p class="text-gray-700 mb-2">Essential for muscle building and repair. Ensure adequate protein intake through quality hay and appropriate grain/supplements.</p>
+<p class="text-sm text-gray-600 font-semibold">Target: 2.5-3.5 lbs daily for working horses</p>
+<div class="bg-yellow-50 rounded-lg p-6 border border-yellow-200">
+<h4 class="font-semibold text-gray-900 mb-3">⚡ Minerals</h4>
+<p class="text-gray-700 mb-2">Calcium, phosphorus, and magnesium support muscle function and bone strength. Balanced ratios are critical.</p>
+<p class="text-sm text-gray-600 font-semibold">Consult equine nutritionist for optimal balance</p>
+<div class="bg-yellow-50 rounded-lg p-6 border border-yellow-200">
+<h4 class="font-semibold text-gray-900 mb-3">💧 Hydration</h4>
+<p class="text-gray-700 mb-2">Proper hydration is essential for muscle recovery and function. Increased exercise demands increased water intake.</p>
+<p class="text-sm text-gray-600 font-semibold">Provide fresh water ad libitum</p>
+<div class="bg-yellow-50 rounded-lg p-6 border border-yellow-200">
+<h4 class="font-semibold text-gray-900 mb-3">🌿 Supplements</h4>
+<p class="text-gray-700 mb-2">Joint support, amino acids, and electrolytes aid strength development and recovery.</p>
+<p class="text-sm text-gray-600 font-semibold">Discuss with veterinarian or nutritionist</p>
+<div class="mb-12">
+<h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Signs of Growing Strength</h2>
+<div class="grid md:grid-cols-2 gap-4">
+<div class="flex gap-3">
+<span class="text-2xl">✅</span>
+<div>
+<p class="font-semibold text-gray-900">Visible Muscle Development</p>
+<p class="text-gray-600 text-sm">Rounded hindquarters and defined muscles</p>
+<div class="flex gap-3">
+<span class="text-2xl">✅</span>
+<div>
+<p class="font-semibold text-gray-900">Improved Performance</p>
+<p class="text-gray-600 text-sm">Better jumping, faster speeds, smoother gaits</p>
+<div class="flex gap-3">
+<span class="text-2xl">✅</span>
+<div>
+<p class="font-semibold text-gray-900">Increased Engagement</p>
+<p class="text-gray-600 text-sm">More active hindquarters and forward movement</p>
+<div class="flex gap-3">
+<span class="text-2xl">✅</span>
+<div>
+<p class="font-semibold text-gray-900">Greater Rideability</p>
+<p class="text-gray-600 text-sm">Easier to handle and responsive to aids</p>
+</section>

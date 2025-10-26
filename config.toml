@@ -8,6 +8,9 @@ publishDir = "docs"
   page = ["HTML"]
   section = ["HTML"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = "Professional horse training tips and comprehensive guides for equestrian professionals"
   author = "EquineWisdom"
