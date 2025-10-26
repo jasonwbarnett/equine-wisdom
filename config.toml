@@ -1,0 +1,23 @@
+baseURL = "https://jasonwbarnett.github.io/equine-wisdom/"
+languageCode = "en-us"
+title = "EquineWisdom - Horse Training Tips"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[params]
+  description = "Professional horse training tips and comprehensive guides for equestrian professionals"
+  author = "EquineWisdom"
+
+[menu]
+  [[menu.main]]
+    name = "Tips"
+    url = "#tips"
+  [[menu.main]]
+    name = "Categories"
+    url = "#categories"
+  [[menu.main]]
+    name = "Insights"
+    url = "#insights"

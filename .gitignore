@@ -1,0 +1,5 @@
+public/
+_backup/
+.hugo_build.lock
+convert_html_to_md.py
+resources/
