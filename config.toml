@@ -1,7 +1,7 @@
 baseURL = "https://jasonwbarnett.github.io/equine-wisdom/"
 languageCode = "en-us"
 title = "EquineWisdom - Horse Training Tips"
-publishDir = "docs"
+publishDir = "public"
 
 [outputs]
   home = ["HTML"]
