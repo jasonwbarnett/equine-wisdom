@@ -44,14 +44,14 @@
     <nav class="sticky top-0 z-50 bg-white shadow-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-16">
-                <a href="/" class="flex items-center space-x-2 no-underline hover:no-underline">
+                <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-2 no-underline hover:no-underline">
                     <div class="text-2xl">🐴</div>
                     <span class="font-playfair text-2xl font-bold bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">EquineWisdom</span>
                 </a>
                 <div class="hidden md:flex items-center space-x-8">
-                    <a href="/#tips" class="text-gray-700 hover:text-amber-600 font-medium transition">Tips</a>
-                    <a href="/#categories" class="text-gray-700 hover:text-amber-600 font-medium transition">Categories</a>
-                    <a href="/#insights" class="text-gray-700 hover:text-amber-600 font-medium transition">Insights</a>
+                    <a href="{{ .Site.BaseURL }}#tips" class="text-gray-700 hover:text-amber-600 font-medium transition">Tips</a>
+                    <a href="{{ .Site.BaseURL }}#categories" class="text-gray-700 hover:text-amber-600 font-medium transition">Categories</a>
+                    <a href="{{ .Site.BaseURL }}#insights" class="text-gray-700 hover:text-amber-600 font-medium transition">Insights</a>
                 </div>
                 <button class="md:hidden p-2">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
