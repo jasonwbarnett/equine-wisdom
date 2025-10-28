@@ -1,9 +1,7 @@
 ---
-
-
-title: "Trail Riding"
-heroGradient: "gradient-meadow"
-description: "Explore outdoor adventures safely with comprehensive trail riding guidance and horse conditioning techniques."
+title: "🏔️ Trail Riding"
+heroGradient: "gradient-green"
+description: "Master the skills needed for safe, enjoyable trail riding and build endurance in your horse while exploring the outdoors."
 emoji: "🏔️"
 highlights: ["Terrain Navigation", "Endurance Building", "Safety Essentials"]
 ---

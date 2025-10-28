@@ -1,8 +1,6 @@
 ---
-
-
-title: "Horse Health"
-heroGradient: "gradient-sunset"
+title: "🏥 Horse Health & Wellness"
+heroGradient: "gradient-red"
 description: "Essential information on nutrition, injury prevention, and maintaining optimal health for your equine partner."
 emoji: "🏥"
 highlights: ["Nutrition Guide", "Injury Prevention", "Wellness Tips"]

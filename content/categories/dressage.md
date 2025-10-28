@@ -1,9 +1,7 @@
 ---
-
-
-title: "Dressage"
-heroGradient: "gradient-sunset"
-description: "Master the classical discipline of dressage with techniques focusing on collection, balance, and precision movements."
+title: "🎪 Dressage Training"
+heroGradient: "gradient-purple"
+description: "Master the classical discipline of dressage and develop the perfect partnership with your horse through collection, balance, and precision movements."
 emoji: "🎪"
 highlights: ["Walk, Trot, Canter Basics", "Advanced Movements", "Competition Prep"]
 ---

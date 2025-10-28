@@ -1,8 +1,6 @@
 ---
-
-
-title: "Beginner Basics"
-heroGradient: "gradient-sunset"
+title: "👶 Beginner Basics"
+heroGradient: "gradient-pink"
 description: "Start your equestrian journey with foundational skills and horse handling fundamentals for new riders."
 emoji: "👶"
 highlights: ["Safety First", "Grooming & Care", "Basic Commands"]

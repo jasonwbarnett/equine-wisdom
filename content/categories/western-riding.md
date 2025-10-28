@@ -1,8 +1,6 @@
 ---
-
-
-title: "Western Riding"
-heroGradient: "gradient-sunset"
+title: "🤠 Western Riding"
+heroGradient: "gradient-purple-alt"
 description: "Perfect your western style with techniques for barrel racing, cutting, and western pleasure disciplines."
 emoji: "🤠"
 highlights: ["Barrel Racing Tips", "Cutting Techniques", "Reining Skills"]
