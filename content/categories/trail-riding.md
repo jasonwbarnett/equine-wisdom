@@ -110,6 +110,9 @@ Trail riding combines the joy of being outdoors with horsemanship skills. It req
 <p class="font-semibold text-gray-900">✓ Water Supply</p>
 <p class="text-gray-700 text-sm">Carry water for your horse on longer rides</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Managing Horse Behavior on Trail</h2>
 <div class="space-y-4">

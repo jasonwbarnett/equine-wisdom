@@ -16,6 +16,8 @@ Starting your journey with horses is exciting! Whether you're taking your first 
 <p class="text-gray-700 text-lg leading-relaxed">
 This guide covers everything a beginner needs to know to start their equestrian journey safely and confidently.
 </p>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Safety First</h2>
 <div class="space-y-4">
@@ -35,6 +37,9 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <h4 class="font-semibold text-gray-900 mb-2">📚 Take Lessons</h4>
 <p class="text-gray-700">Professional instruction is invaluable. A qualified instructor teaches you proper techniques and safety practices from the beginning.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Horse Handling Basics</h2>
 <div class="space-y-6">
@@ -54,6 +59,9 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <h4 class="font-semibold text-gray-900 mb-3">🚪 Mounting & Dismounting</h4>
 <p class="text-gray-700 mb-2">Always mount from the left side. Use a mounting block if needed. Keep the horse still and calm. Dismount smoothly by taking both feet out of stirrups and swinging right leg over.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Grooming Your Horse</h2>
 <div class="bg-green-50 rounded-lg p-8 border border-green-200">
@@ -93,6 +101,10 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <p class="text-gray-700">Use a hoof pick to remove dirt and rocks from hooves. Check for any signs of injury or disease.</p>
 </div>
 </div>
+</div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Basic Riding Position</h2>
 <div class="grid md:grid-cols-2 gap-4">
@@ -112,6 +124,9 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <p class="font-semibold text-gray-900">✓ Hands & Arms</p>
 <p class="text-gray-700 text-sm">Keep elbows bent at a 90-degree angle. Hands should be level and in front of the saddle.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">The Gaits</h2>
 <div class="space-y-4">
@@ -127,6 +142,9 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <h4 class="font-semibold text-gray-900 mb-2">🐎 Canter</h4>
 <p class="text-gray-700">A smooth, three-beat gait faster than trot. Very comfortable for most riders. The stride feels like rolling waves.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Common Beginner Mistakes to Avoid</h2>
 <div class="space-y-3">
@@ -146,6 +164,9 @@ This guide covers everything a beginner needs to know to start their equestrian 
 <p class="font-semibold text-gray-900">❌ Skipping Safety Gear</p>
 <p class="text-gray-700 text-sm">Always wear a helmet and proper footwear. No exceptions.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Getting Started: First Steps</h2>
 <div class="bg-green-50 rounded-lg p-8 border border-green-200">

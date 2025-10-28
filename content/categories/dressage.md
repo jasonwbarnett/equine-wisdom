@@ -16,6 +16,8 @@ Dressage, often called "the ballet of equestrianism," is the art of training hor
 <p class="text-gray-700 text-lg leading-relaxed">
 From basic walk, trot, and canter to advanced movements like piaffe, passage, and pirouettes, dressage training systematically develops the horse's athletic ability and mental focus. Whether you're a competitive rider or simply want to develop your horse's potential, dressage training benefits all disciplines.
 </p>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Levels of Dressage Competition</h2>
 <div class="space-y-4">

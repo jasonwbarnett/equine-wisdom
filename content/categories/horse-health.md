@@ -13,6 +13,8 @@ highlights: ["Nutrition Guide", "Injury Prevention", "Wellness Tips"]
 <p class="text-gray-700 text-lg leading-relaxed mb-4">
 A healthy horse is a happy, willing horse. Understanding basic equine health principles and implementing preventative care practices can save you thousands in veterinary expenses and keep your horse performing at its best.
 </p>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Nutrition & Feeding</h2>
 <div class="space-y-6">
@@ -32,6 +34,9 @@ A healthy horse is a happy, willing horse. Understanding basic equine health pri
 <h4 class="font-semibold text-gray-900 mb-3">🔍 Nutritional Assessment</h4>
 <p class="text-gray-700">Work with an equine nutritionist to develop a feeding program specific to your horse's needs. Body condition score your horse monthly to ensure proper weight.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Preventative Care Schedule</h2>
 <div class="bg-blue-50 rounded-lg p-8 border border-blue-200">
@@ -71,6 +76,10 @@ A healthy horse is a happy, willing horse. Understanding basic equine health pri
 <p class="text-gray-700">Comprehensive health assessment including heart/lungs, teeth, joints, and overall condition.</p>
 </div>
 </div>
+</div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Common Health Issues & Prevention</h2>
 <div class="grid md:grid-cols-2 gap-6">
@@ -94,6 +103,9 @@ A healthy horse is a happy, willing horse. Understanding basic equine health pri
 <p class="text-gray-700 mb-3">Clean barns reduce infection risk. Clean wounds immediately and use proper first aid. Keep tetanus vaccination current.</p>
 <p class="text-sm text-gray-600">Action: Clean regularly, disinfect, monitor healing</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Injury Prevention & Recovery</h2>
 <div class="space-y-4">
@@ -113,6 +125,9 @@ A healthy horse is a happy, willing horse. Understanding basic equine health pri
 <p class="font-semibold text-gray-900">✅ Cool Down & Stretching</p>
 <p class="text-gray-700 text-sm">Proper cool-down prevents stiffness and aids muscle recovery</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Signs of a Healthy Horse</h2>
 <div class="grid md:grid-cols-2 gap-4">

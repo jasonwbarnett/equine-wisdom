@@ -13,6 +13,8 @@ highlights: ["Fence Approach", "Perfect Take-off", "Landing & Recovery"]
 <p class="text-gray-700 text-lg leading-relaxed mb-4">
 Show jumping is a discipline that tests both horse and rider's technical ability, courage, and partnership. It combines the precision of dressage with the athleticism required to cleanly jump obstacles of varying heights and complexity.
 </p>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">The Jumping Position</h2>
 <div class="space-y-4">
@@ -36,6 +38,9 @@ Show jumping is a discipline that tests both horse and rider's technical ability
 <h4 class="font-semibold text-gray-900 mb-2">Landing Phase</h4>
 <p class="text-gray-700">Maintain the jumping position as the horse lands. Gradually straighten upper body. Immediately prepare for next approach.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Types of Jumps</h2>
 <div class="grid md:grid-cols-2 gap-4">
@@ -55,6 +60,9 @@ Show jumping is a discipline that tests both horse and rider's technical ability
 <p class="font-semibold text-gray-900">✓ Bank</p>
 <p class="text-gray-700 text-sm">Elevated platform jump. Requires different approach</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Training Progression</h2>
 <div class="bg-green-50 rounded-lg p-8 border border-green-200">
@@ -94,6 +102,10 @@ Show jumping is a discipline that tests both horse and rider's technical ability
 <p class="text-gray-700">Ride full courses from varying courses. Develop rhythm and pace management over a full course.</p>
 </div>
 </div>
+</div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Key Performance Tips</h2>
 <div class="grid md:grid-cols-2 gap-4">
@@ -125,6 +137,9 @@ Show jumping is a discipline that tests both horse and rider's technical ability
 <p class="text-gray-600 text-sm">Maintain core engagement for stability</p>
 </div>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Common Jumping Mistakes</h2>
 <div class="space-y-3">

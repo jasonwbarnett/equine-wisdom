@@ -13,6 +13,8 @@ highlights: ["Barrel Racing Tips", "Cutting Techniques", "Reining Skills"]
 <p class="text-gray-700 text-lg leading-relaxed mb-4">
 Western riding encompasses multiple disciplines, each with unique techniques. Whether you're interested in barrel racing, cutting, reining, or pleasure riding, understanding these foundations will help you excel in your chosen discipline.
 </p>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Western Riding Position</h2>
 <div class="space-y-4">
@@ -32,6 +34,9 @@ Western riding encompasses multiple disciplines, each with unique techniques. Wh
 <h4 class="font-semibold text-gray-900 mb-2">🎯 Upper Body</h4>
 <p class="text-gray-700">Keep your upper body upright and relaxed. Your shoulders should be square and your eyes looking ahead, not down.</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Popular Western Disciplines</h2>
 <div class="space-y-6">
@@ -55,6 +60,9 @@ Western riding encompasses multiple disciplines, each with unique techniques. Wh
 <p class="text-gray-700">Evaluated on smoothness, manners, and suitability as a pleasure mount. Tests steady gaits, smooth transitions, and calm responsiveness.</p>
 <p class="text-sm text-gray-600 mt-2">Key Skills: Smooth gaits, calm temperament, obedience</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Training Tips for Barrel Racing</h2>
 <div class="bg-orange-50 rounded-lg p-8 border border-orange-200">
@@ -87,6 +95,10 @@ Western riding encompasses multiple disciplines, each with unique techniques. Wh
 <p class="text-gray-700">Build explosive power through hill work, interval training, and gradually increase speed over time.</p>
 </div>
 </div>
+</div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Essential Western Equipment</h2>
 <div class="grid md:grid-cols-2 gap-4">
@@ -106,6 +118,9 @@ Western riding encompasses multiple disciplines, each with unique techniques. Wh
 <p class="font-semibold text-gray-900">✓ Protective Boots</p>
 <p class="text-gray-700 text-sm">Protect legs during barrel work and other events</p>
 </div>
+</div>
+</div>
+
 <div class="mb-12">
 <h2 class="font-playfair text-3xl font-bold mb-6 text-gray-900">Common Western Riding Mistakes</h2>
 <div class="space-y-3">
